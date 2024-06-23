@@ -4,7 +4,7 @@ import React from 'react';
 
 function Intro() {
     return (
-        <div className='flex items-center justify-center flex-col text-center pt-24 pb-16 josefin-sans-unique font-weight-400 sm:ml-8 sm:mr-8'>
+        <div className='flex items-center justify-center flex-col text-center pt-24 pb-16 josefin-sans-unique font-weight-400 sm:ml-8 sm:mr-8 mt-20'>
             <h1 className='font-bold text-7xl md:text-8xl mb-1'>MARIA NIRANJAN</h1>
             <p className='font-bold text-base md:text-xl mb-3'>Enthusiastic Coder with a Passion for Problem-Solving</p>
             <p className='font-medium text-base max-w-4xl mb-6'>I am an avid coder who thrives on tackling challenging problems and developing innovative solutions. My journey in coding began with a curiosity for how things work and has since evolved into a deep-seated passion for creating efficient and elegant software.
