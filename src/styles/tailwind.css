@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .josefin-sans-unique {
+      @apply font-josefin-sans;
+    }
+  
+    .font-weight-100 {
+      @apply font-thin;
+    }
+    .font-weight-200 {
+      @apply font-extralight;
+    }
+    .font-weight-300 {
+      @apply font-light;
+    }
+    .font-weight-400 {
+      @apply font-normal;
+    }
+    .font-weight-500 {
+      @apply font-medium;
+    }
+    .font-weight-600 {
+      @apply font-semibold;
+    }
+    .font-weight-700 {
+      @apply font-bold;
+    }
+  }

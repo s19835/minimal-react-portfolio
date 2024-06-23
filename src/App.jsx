@@ -6,8 +6,8 @@ import Portfolio from './components/portfolio';
 function App() {
   return (
    <div className='App'>
-    <Intro></Intro>
-    <Portfolio></Portfolio>
+    <Intro />
+    <Portfolio />
    </div>
   )
 }
