@@ -4,7 +4,7 @@ import React from 'react';
 function Tools() {
     return (
         <div className='flex items-center justify-center flex-col text-center josefin-sans-unique font-weight-400 mx-2'>
-            <h1 className='font-regular text-xl md:text-4xl mb-4'>Languages and Tools</h1>
+            <h1 className='font-regular text-xl md:text-2xl mb-4'>Languages and Tools</h1>
             <div className='flex space-x-3'>
                 <img className = 'w-12 left-0' alt = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
                 <img className = 'w-12 left-0' alt = "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
