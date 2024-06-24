@@ -1,13 +1,15 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 import Intro from './components/intro';
-import Portfolio from './components/portfolio';
+import Tools from './components/tools';
+import About from './components/about';
 
 function App() {
   return (
    <div className='App'>
     <Intro />
-    <Portfolio />
+    <Tools />
+    <About />
    </div>
   )
 }
